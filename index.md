@@ -25,7 +25,7 @@ To a mouse, a button is very large. He can use buttons as shields to protect him
 
 ## Enemies
 ### Minions
-![minion](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webminion.png)
+![minion](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webenemy.png)
 
 Minions are under control of Count Neko and have one goal- to capture you!
 
@@ -38,9 +38,9 @@ Count Neko controls his minions to make sure you can never have your cheese back
 ### Github link
 https://github.com/JackMao981/FinalProject.git
 ### Requirements
-1. Install pygame
+1. Install pygame  
 _pip install -U pygame --user_
-2. Install pyganim
+2. Install pyganim  
 _pip install pyganim_
 
 ### Please be sure to read the README to get the latest information!
