@@ -2,9 +2,9 @@
 ## A Roguelike RPG  
 ### SoftDes Spring 19  
 
-_Introduction video here.  
-Video will be light-hearted and fun.  
-Outline:  _
+_Introduction video here._  
+_Video will be light-hearted and fun._  
+_Outline:  _
 * _Story introduction _
 * _Character introducion_
 * _Overview of item effects_
