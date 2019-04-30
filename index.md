@@ -2,9 +2,16 @@
 ## A Roguelike RPG  
 ### SoftDes Spring 19  
 
+_Introduction video here.  
+Video will be light-hearted and fun.  
+Outline:  _
+* _Story introduction _
+* _Character introducion_
+* _Overview of item effects_
+
 ![Mr. Mouse, the hero](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/logo.png)  
 
-## About
+# About
 Of Mice and Cats is a game created by Lee Smith, Jack Mao, and Melissa Anthony. Help Mr. Mouse take back his cheese from Count Neko as you wander through randomly-generating floors. Be careful not to get caught by his minions!
 
 ## Items to Help You
@@ -34,6 +41,21 @@ Minions are under control of Count Neko and have one goal- to capture you!
 
 Count Neko controls his minions to make sure you can never have your cheese back. If he catches you, you'll become his snack!
 
+# Our History
+## From Dark Origins
+We started with a basic, buggy game. Each sprite was only 4 by 4 pixels, and the hero was a void which wandered in a dark, low-resolution land.
+  
+We decided the game's ability to randomly generate floors had a lot of potential, and so we started to create a game worth playing with this base.
+
+## New and Improved: Mousy Game v1.0
+Our first version of the game had new and improved graphics, and a working potion item.
+  
+There were many bugs, however. We didn't want our courageous hero to spawn into walls, so we went back to our code to fix everything.
+
+## Adding Utility: Of Mice and Cats v2.0
+This is the version of the game we currently have. We have a start menu, death screen, and HP bar.
+  
+ We're working on integrating our animations, adding sound, and balancing enemies. If we have time, we'll add a boss floor and a puzzle floor. There's a lot to look forward too!
 ## Download
 ### Github link
 https://github.com/JackMao981/FinalProject.git
