@@ -2,7 +2,7 @@
 ## A Roguelike RPG  
 ### SoftDes Spring 19  
 
-![Mr. Mouse, the hero](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/logo.png)  
+![Mr. Mouse, the hero](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/logo.PNG)  
 
 ## About
 Of Mice and Cats is a game created by Lee Smith, Jack Mao, and Melissa Anthony. Help Mr. Mouse take back his cheese from Count Neko as you wander through randomly-generating floors. Be careful not to get caught by his minions!
@@ -10,27 +10,27 @@ Of Mice and Cats is a game created by Lee Smith, Jack Mao, and Melissa Anthony. 
 ## Items to Help You
 
 ### Potion
-![potion](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webpotion.png)  
+![potion](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webpotion.PNG)  
 
 Heals your mouse from all the injuries he's received from the minions.
 
 
 ### Cheese
-![cheese](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webcheese.png)  
+![cheese](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webcheese.PNG)  
 You found a piece of Mr. Mouse's stolen cheese! Gives a permanent boost to HP.
 
 ### Button
-![button](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webbutton.png)  
+![button](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webbutton.PNG)  
 To a mouse, a button is very large. He can use buttons as shields to protect him from the minions' attacks.
 
 ## Enemies
 ### Minions
-![minion](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webenemy.png)
+![minion](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webenemy.PNG)
 
 Minions are under control of Count Neko and have one goal- to capture you!
 
 ### Count Neko
-![the count](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webneko.png)  
+![the count](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webneko.PNG)  
 
 Count Neko controls his minions to make sure you can never have your cheese back. If he catches you, you'll become his snack!
 
