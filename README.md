@@ -1,2 +1,3 @@
-# miceandcats.git.io
-Website for mice and cats  game
+# Welcome to Mice and Cats
+Website for mice and cats game
+SoftDes Spring 19
