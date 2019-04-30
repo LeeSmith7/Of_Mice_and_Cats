@@ -20,7 +20,7 @@ Heals your mouse from all the injuries he's received from the minions.
 You found a piece of Mr. Mouse's stolen cheese! Gives a permanent boost to HP.
 
 ### Button
-![button](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webbutton.png)
+![button](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webbutton.png)  
 To a mouse, a button is very large. He can use buttons as shields to protect him from the minions' attacks.
 
 ## Enemies
