@@ -66,6 +66,6 @@ _pip install -U pygame --user_
 2. Install pyganim  
 _pip install pyganim_
 
-## NB: This game has been tested with Python downloaded through Anaconda. If you have installed Python through other means, please make sure pygame has been updated.
+### NB: This game has been tested with Python downloaded through Anaconda. If you have installed Python through other means, please make sure pygame has been updated.
 
 ### Please be sure to read the README to get the latest information!
