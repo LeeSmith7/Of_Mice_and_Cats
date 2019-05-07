@@ -11,7 +11,7 @@ Of Mice and Cats is a game created by Lee Smith, Jack Mao, and Melissa Anthony. 
 ## Items to Help You
 
 ### Potion
-![potion](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/webpotion.png)  
+![potion](https://github.com/LeeSmith7/miceandcats/blob/master/sprite_png/webpotion.png)  
 
 Heals your mouse from all the injuries he's received from the minions.
 
