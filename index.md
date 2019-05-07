@@ -41,6 +41,8 @@ We started with a basic, buggy game. Each sprite was only 4 by 4 pixels, and the
   
 We decided the game's ability to randomly generate floors had a lot of potential, and so we started to create a game worth playing with this base.
 
+![a dark world](sprite_png/darkworld.png?raw=true)
+
 ## New and Improved: Mousy Game v1.0
 Our first version of the game had new and improved graphics, and a working potion item.
   
