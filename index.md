@@ -3,7 +3,7 @@
 ### SoftDes Spring 19  
 
 
-![Mr. Mouse, the hero](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/logo.png?raw=true)  
+![Mr. Mouse, the hero](sprite_png/logo.png?raw=true)  
 
 # About
 Of Mice and Cats is a game created by Lee Smith, Jack Mao, and Melissa Anthony. Help Mr. Mouse take back his cheese from Count Neko as you wander through randomly-generating floors. Be careful not to get caught by his minions!
