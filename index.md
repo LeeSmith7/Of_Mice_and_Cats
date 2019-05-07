@@ -2,12 +2,6 @@
 ## A Roguelike RPG  
 ### SoftDes Spring 19  
 
-_Introduction video here._  
-_Video will be light-hearted and fun._  
-_Outline:  _
-* _Story introduction _
-* _Character introducion_
-* _Overview of item effects_
 
 ![Mr. Mouse, the hero](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/logo.png)  
 
@@ -52,10 +46,17 @@ Our first version of the game had new and improved graphics, and a working potio
   
 There were many bugs, however. We didn't want our courageous hero to spawn into walls, so we went back to our code to fix everything.
 
+![a mouse is in trouble](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/deadmau.png)
+
 ## Adding Utility: Of Mice and Cats v2.0
 This is the version of the game we currently have. We have a start menu, death screen, and HP bar.
-  
- We're working on integrating our animations, adding sound, and balancing enemies. If we have time, we'll add a boss floor and a puzzle floor. There's a lot to look forward too!
+We've added sound, an introduction section, and a screen to show when you win!
+
+![a mouse starts an adventure](https://github.com/JackMao981/FinalProject/blob/master/sprites/sprite_png/intro3.png)
+
+## What we would do in the future
+Our code makes it difficult to add animations, but if we had the time to completely redo our code structure we would make sure that animations were integrated from the beginning. We also would create a boss and puzzle floor, and make another type of enemy.
+ 
 ## Download
 ### Github link
 https://github.com/JackMao981/FinalProject.git
